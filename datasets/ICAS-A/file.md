@@ -1,0 +1,19 @@
+- dataset
+    - train
+        - class1
+            - image1.jpg
+            - image2.jpg
+            - ...
+        - class2
+            - image1.jpg
+            - image2.jpg
+            - ...
+    - val
+        - class1
+            - image1.jpg
+            - image2.jpg
+            - ...
+        - class2
+            - image1.jpg
+            - image2.jpg
+            - ...
